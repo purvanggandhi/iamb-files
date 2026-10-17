@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- iamb.club sitemap, hosted at files.iamb.club (repo purvanggandhi/iamb-files). Add one url block per new course or post. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main pages -->
+  <url><loc>https://www.iamb.club/</loc></url>
+  <url><loc>https://www.iamb.club/s/store</loc></url>
+  <url><loc>https://www.iamb.club/memberships</loc></url>
+  <url><loc>https://www.iamb.club/blog</loc></url>
+  <url><loc>https://www.iamb.club/aboutus</loc></url>
+  <url><loc>https://www.iamb.club/contactus</loc></url>
+  <!-- Courses -->
+  <url><loc>https://www.iamb.club/courses/NISM-Series-XV--Research-Analyst-Certification-Examination-Preparation-Course-6ab688dfa1e8f042095f59f3</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-X-A-Investment-Adviser-Level-1-Certification-Examination-6abe4f5938b8a2c685c3e7d5</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-X-Investment-Adviser-Level-2-Exam-Preparatory-course--6ac8dd7b676fd5d58c61295c</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-XVII-Retirement-Adviser-Certification-Examination--6ac9c5fe877b9f7c558e8e84</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-XIX-AAIF-Category-I-and-II-Distributors-6ac9f9b4d96d0340372879c1</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-XIX-BAIF-Category-III-Distributors-exam-Preparatory-course-6aca21a815bd95c454370939</loc></url>
+  <url><loc>https://www.iamb.club/courses/MTS-6ac931b813ccf90d4703dd17</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-XIX-D-Category-I--II-AIF-Managers-Examination-Preparatory-Course-6aca36b54fdd6bb8dd63c36a</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-XXI-A-Portfolio-Management-Services-PMS-Distributors-Certification-Examination-6aca635dee254a59f83dd18a</loc></url>
+  <url><loc>https://www.iamb.club/courses/NISM-Series-XXI-B-Portfolio-Managers-Certification-Examination--6ac9090542eb26474240d9e9</loc></url>
+  <url><loc>https://www.iamb.club/courses/Level-1--Market-Mastery-Porogram-6ac70b9f5aab3a39ce95e4a2</loc></url>
+  <url><loc>https://www.iamb.club/courses/Level-2--Market-Mastery-Program-6ac70e31e42934af3f332e93</loc></url>
+  <url><loc>https://www.iamb.club/courses/Level-3--Market-Mastery-Program-6ac70efbb33bc7d0cfa80f60</loc></url>
+  <!-- Blog posts -->
+  <url><loc>https://www.iamb.club/blog/could-the-tax-on-your-stock-profits-go-away</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/why-were-markets-up-today</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/onion-prices-doubled-your-wallet-noticed</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/-10-2-lakh-crore-gone-in-one-day</loc><lastmod>2026-10-08</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/flat-open-down-985-points-by-lunch</loc><lastmod>2026-10-08</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/rbi-raised-rates-your-emi-noticed</loc><lastmod>2026-10-08</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/eight-weeks-down-four-days-gone</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/two-red-days-then-a-pause</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/two-red-closes-in-a-row-1-416-points-gone-since-friday</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/stocks-fell-gold-fell-too-wasn-t-gold-supposed-to-save-you</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/the-company-that-runs-the-stock-market-just-went-public-here-s-the-plot-twist</loc><lastmod>2026-09-28</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/why-sensex-fell-971-points-oil-rupee-fpis-explained</loc><lastmod>2026-09-28</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/your-sip-dashboard-has-been-red-for-weeks-should-you-stop-it</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/the-rupee-is-near-96-to-the-dollar-should-you-worry</loc><lastmod>2026-09-21</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/why-does-crude-oil-news-end-up-on-your-food-delivery-bill</loc></url>
+  <url><loc>https://www.iamb.club/blog/why-is-everyone-your-age-suddenly-buying-gold</loc></url>
+  <url><loc>https://www.iamb.club/blog/bitcoin-fell-at-2-am-is-that-a-sale</loc></url>
+  <url><loc>https://www.iamb.club/blog/what-are-sensex-and-nifty-and-why-do-they-move-all-day</loc></url>
+  <url><loc>https://www.iamb.club/blog/why-do-most-day-traders-lose-money</loc></url>
+  <url><loc>https://www.iamb.club/blog/everyone-wants-in-on-the-ipo-do-you-know-what-you-are-buying</loc></url>
+  <url><loc>https://www.iamb.club/blog/oil-hit-100-dollars-a-barrel-why-does-your-petrol-bill-care</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/america-raised-its-rates-why-should-india-care</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.iamb.club/blog/tanishq-started-a-sip-with-500-lowkey-a-power-move</loc></url>
+  <url><loc>https://www.iamb.club/blog/why-that-0-emi-offer-is-never-actually-free</loc></url>
+  <url><loc>https://www.iamb.club/blog/what-even-is-an-sip-and-why-won-t-your-friends-stop-talking-about-it</loc></url>
+  <url><loc>https://www.iamb.club/blog/financial-literacy-money-basics-for-gen-z</loc><lastmod>2026-09-16</lastmod></url>
+</urlset>
